@@ -133,8 +133,11 @@ This repository is primarily for my personal learning and documentation. However
 
 ## Connect With Me
 **Nitin Yadav**
+
 Email: yadavnitin2188@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/nitin-yadav-681850299/
+
 GitHub: https://github.com/nitinyadav2188
 
 If you find this repository useful or would like to follow my learning journey, consider starring the repository.
